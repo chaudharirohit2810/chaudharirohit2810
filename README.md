@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 
-- 🔭 I’m currently working on **Terminal based email client**
-- 👯 I’m looking to collaborate on **Native android and MERN stack projects**
+- 🔭 Currently Studying Computer Engineering at CoEP.
+- 🌱 Currently working on **Terminal based email client**
+- 👯 Looking to collaborate on **Native android and MERN stack projects**
 - 💬 Ask me about **Native android development, Web development (MERN stack), PWAs**
 - 📫 Reach me at **chaudharirohit2810@gmail.com**
 
