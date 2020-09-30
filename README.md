@@ -8,4 +8,12 @@
 - 📫 Reach me at chaudharirohit2810@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
+
+
+
+
+
+
+
+
 [![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=chaudharirohit2810)](https://github.com/anuraghazra/github-readme-stats)
