@@ -3,8 +3,8 @@
 - 🔭 Currently Studying **Computer Engineering at College of Engineering Pune (CoEP)**
 - 👯 Looking to collaborate on **Native android and MERN stack projects**
 - 💬 Ask me about **Native android development, Web development (MERN stack), PWAs**
-- 📫 Reach me at **chaudharirohit2810@gmail.com**
-- 😄 Fun Fact: I would prefer Tea over Coffee
+- 📫 Reach me at **rohitkc2810@gmail.com**
+- 😄 Fun Fact: I prefer Tea over Coffee
 
 
 
