@@ -4,6 +4,7 @@
 - 👯 Looking to collaborate on **Native android and MERN stack projects**
 - 💬 Ask me about **Native android development, Web development (MERN stack), PWAs**
 - 📫 Reach me at **rohitkc2810@gmail.com**
+- 💻 Check out more at <a href="https://chaudharirohit2810.github.io/">chaudharirohit2810.github.io</a>
 - 😄 Fun Fact: I prefer Tea over Coffee
 
 
