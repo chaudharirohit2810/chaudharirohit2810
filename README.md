@@ -1,12 +1,20 @@
-<h1 align="center">Hi 👋, I'm Rohit</h1>
+### Hi there 👋
+#### I'm a Computer engineering student at College of Engineering, Pune (COEP)
 
-- 🔭 Currently Studying **Computer Engineering at College of Engineering Pune (CoEP)**
-- 👯 Looking to collaborate on **Native android and MERN stack projects**
-- 💬 Ask me about **Native android development, Web development (MERN stack), PWAs**
+<a href="https://chaudharirohit2810.github.io/">Website</a> •
+<a href="https://www.linkedin.com/in/chaudhari-rohit2810/">LinkedIn</a>
+
+##
+
+#### BIO
+- Learning Operating Systems, Svelte
+- 💬 Ping me about **Native android development, Web development (MERN stack), PWAs**
 - 📫 Reach me at **rohitkc2810@gmail.com**
-- 💻 Check out more at **<a href="https://chaudharirohit2810.github.io/">chaudharirohit2810.github.io</a>**
 - 😄 Fun Fact: I prefer Tea over Coffee
 
+<details>
+<summary>My GitHub Stats</summary>
+  
+![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=chaudharirohit2810&show_icons=true&theme=radical)
+</details>
 
-
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=chaudharirohit2810&show_icons=true&theme=radical" alt="chaudharirohit2810" /></div>
