@@ -9,4 +9,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaudharirohit2810&show_icons=true" alt="chaudharirohit2810" /></p>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=chaudharirohit2810&show_icons=true&theme=radical" alt="chaudharirohit2810" /></div>
