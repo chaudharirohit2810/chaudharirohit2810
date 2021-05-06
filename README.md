@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I'm a Computer engineering student at College of Engineering, Pune (COEP)
 
-<a href="https://chaudharirohit2810.github.io/" target="_blank">Website</a> •
+<a href="https://chaudharirohit2810.github.io/">Website</a> •
 <a href="mailto: rohitkc2810@gmail.com">Email</a>
 
 #### BIO
