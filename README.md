@@ -6,7 +6,7 @@
 
 #### BIO
 - 🌱 Learning Operating Systems, Svelte
-- ⚙️  Mastering: `js`, `css`, `html`, `reactjs`
+- ⚙️  Mastering: `js`, `css`, `html`, `mern`
 - 💬 Ping me about **Native Android development, Web development (MERN stack), PWAs**
 - 😄 Fun Fact: I prefer Tea over Coffee
 
