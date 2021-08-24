@@ -5,7 +5,6 @@
 <a href="mailto: rohitkc2810@gmail.com">Email</a>
 
 #### BIO
-- 🌱 Learning Operating Systems, nextjs
 - ⚙️  Mastering: `js`, `css`, `html`, `MERN`
 - 💬 Ping me about **Native Android development, Web development (MERN stack), PWAs**
 - 😄 Fun Fact: I prefer Tea over Coffee
