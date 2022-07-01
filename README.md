@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px">
 #### I'm a Computer engineering student at College of Engineering, Pune (COEP)
 
 <a href="https://chaudharirohit2810.github.io/">Website</a> •
